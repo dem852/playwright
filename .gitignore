@@ -1,11 +1,12 @@
-
+﻿
 # Playwright
 node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/playwright.config/
-/package-lock.json/
-/package.json/
+playwright.config/
+package-lock.json/
+package.json/
 /.gitignore/
+.vs/
